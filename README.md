@@ -6,11 +6,20 @@ I'm a Computer Engineering student at Albanian University, interested in softwar
 
 I'm currently developing my programming skills and working on personal projects to strengthen my understanding of application development, APIs, and databases.
 
-### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, C# (learning)
-- **Backend:** ASP.NET Core (learning and practicing)
-- **Tools:** Git, GitHub, Visual Studio
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,js,git,github,visualstudio&theme=dark" alt="Technology icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 
 ### 🚀 Featured Project
 
