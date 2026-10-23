@@ -20,7 +20,7 @@ Learning by building practical software and improving one project at a time.
 I'm a Computer Engineering student at Albanian University interested in software development, backend engineering, APIs, and databases. I use personal projects to turn what I learn into practical experience.
 
 - Studying computer engineering and strengthening my programming fundamentals.
-- Learning C, C#, .NET, and JavaScript.
+- Learning C, C#, .NET, JavaScript, and TypeScript.
 - Developing **Seluna**, a note-taking web application.
 - Working toward clear documentation and maintainable code.
 
