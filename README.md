@@ -54,14 +54,6 @@ The project is being developed across frontend and backend repositories. I plan 
 - Learning more about APIs, databases, and application architecture.
 - Building projects with useful documentation and clear setup instructions.
 
-## GitHub Activity
-
-<div align="center">
-
-![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arseoazemaj&bg_color=0d1117&color=c9d1d9&line=8957e5&point=ffffff&area=true&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
