@@ -28,13 +28,14 @@ I'm a Computer Engineering student at Albanian University interested in software
 
 <div align="center">
 
-[![Technologies](https://skillicons.dev/icons?i=c,cs,dotnet,js,git,github,visualstudio&theme=dark)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=c,cs,dotnet,js,ts,git,github,visualstudio&theme=dark)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C — learning" />
   <img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C sharp — learning" />
   <img src="https://img.shields.io/badge/.NET-Learning-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET — learning" />
   <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript — learning" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript — learning" />
 </p>
 
 </div>
